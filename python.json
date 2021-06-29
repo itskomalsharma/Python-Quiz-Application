@@ -1,0 +1,104 @@
+{
+	"name":"python",
+	"quiz":[	
+			{
+				"name":"Python is founded in?",
+				"1":"1995",
+				"2":"1991",
+				"3":"1999",
+				"4":"2006",
+				"answer":"2"
+			},
+			{
+				"name":"Who founded Python?",
+				"1":"Berlin",
+				"2":"Lerry Page",
+				"3":"Guido van Rossum",
+				"4":"Mark Zack",
+				"answer":"3"
+			},
+			{
+				"name":"What is the maximum possible length of an identifier?",
+				"1":"16",
+				"2":"32",
+				"3":"64",
+				"4":"None of these above",
+				"answer":"4"
+			},
+			{
+				"name":"In which language is Python written?",
+				"1":"English",
+				"2":"PHP",
+				"3":"C",
+				"4":"All of the above",
+				"answer":"3"
+			},
+			{
+				"name":"Which one of the following is the correct extension of the Python file?",
+				"1":".py",
+				"2":".python",
+				"3":".p",
+				"4":"None of these",
+				"answer":"1"
+			},
+			{
+				"name":"In which year was the Python 3.0 version developed?",
+				"1":"2008",
+				"2":"2000",
+				"3":"2010",
+				"4":"2005",
+				"answer":"1"
+			},
+			{
+				"name":"What do we use to define a block of code in Python language?",
+				"1":"Key",
+				"2":"Brackets",
+				"3":"Indentation",
+				"4":"None of these",
+				"answer":"3"
+			},
+			{
+				"name":"Which character is used in Python to make a single line comment?",
+				"1":"/",
+				"2":"//",
+				"3":"#",
+				"4":"!",
+				"answer":"3"
+			},
+			{
+				"name":"What is the method inside the class in python language?",
+				"1":"Object",
+				"2":"Function",
+				"3":"Attribute",
+				"4":"Argument",
+				"answer":"2"
+			},
+			{
+				"name":"Which of the following is not a keyword in Python language?",
+				"1":"val",
+				"2":"raise",
+				"3":"try",
+				"4":"with",
+				"answer":"1"
+			}
+		   ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

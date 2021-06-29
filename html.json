@@ -1,0 +1,64 @@
+{
+	"name":"html",
+	"quiz":[	
+			{
+				"name":"HTML stands for?",
+				"1":"Home Tool Markup Language",
+				"2":"Hyper Text Markup Language",
+				"3":"Hyperlinks & Text Markup Language",
+				"4":"None of the above",
+				"answer":"2"
+			},
+			{
+				"name":"Correct HTML tag for the largest heading is?",
+				"1":"<head>",
+				"2":"<H6>",
+				"3":"<H1>",
+				"4":"<H>",
+				"answer":"3"
+			},
+			{
+				"name":"HTML is subset of?",
+				"1":"SGML",
+				"2":"SGMD",
+				"3":"SGMH",
+				"4":"None of these",
+				"answer":"4"
+			},
+			{
+				"name":"HTML Program is saved using------- extention?",
+				"1":"hml",
+				"2":"html",
+				"3":"htnl",
+				"4":"hnl",
+				"answer":"2"
+			},
+			{
+				"name":"HTML was firstly proposed in year?",
+				"1":"1980",
+				"2":"1990",
+				"3":"1995",
+				"4":"2000",
+				"answer":"1"
+			}
+			]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
