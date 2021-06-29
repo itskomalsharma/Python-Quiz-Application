@@ -6,7 +6,7 @@ Client need to login before start test. There is Admin Panel additionally where 
 ![](https://i.ibb.co/fDsQWLP/carbon-2.png)
 
 ### Screenshot (Admin Login)
-![](https://i.ibb.co/fDsQWLP/carbon-2.png)
+![](https://i.ibb.co/B2jkxRQ/carbon-3.png)
 
 ### Requirements Package
 - requests
