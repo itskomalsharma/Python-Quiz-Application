@@ -23,9 +23,9 @@ if myconn.rowcount==1 :
         print("\n==== Select Your Quiz ====\n")
         for x in range(len(all_quiz)):
             print(str(x+1)+". "+all_quiz[x][1]+"")
-        quiz_n=input("Enter Your Choose Quiz Name: ")
+        quiz_n=input("Enter Your Choice (Quiz Name):")
         
-        r=requests.get("http://Your domain/file name/"+quiz_n+".json")
+        r=requests.get("http://your_domain/"+quiz_n+".json")
         b=r.json()
         for i in range(len(b["quiz"])) :
             print("\n")
