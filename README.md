@@ -11,5 +11,5 @@ Client need to login before start test. There is Admin Panel additionally where 
 ### Installation
 - Upload `database.sql` to your server and give any database name
 - Open `project.py` and `admin.py` add all your server information of MySQL in there connect function
-- Replace `website` address to your localhost and upload JSON file in the root folder
+- Replace `website` address with your localhost and upload JSON file in the root folder
 - Run the file, Enjoy Coding!
